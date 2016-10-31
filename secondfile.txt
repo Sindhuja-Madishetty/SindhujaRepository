@@ -1,2 +1,3 @@
 my second file first line
 my second file second line
+my second file third line
